@@ -41,6 +41,9 @@ accelerate = "*"
 bitsandbytes = "*"
 psutil = "*"
 speedtest-cli = "*"
+diffusers = "*"
+soundfile = "*"
+huggingface-hub = {extras = ["cli"], version = "*"}
 
 [dev-packages]
 
