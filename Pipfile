@@ -24,7 +24,6 @@ faiss-cpu = "*"
 langchain-openai = "*"
 langchain-experimental = "*"
 langchain-chroma = "*"
-langchain = {extras = ["docarray"], version = "*"}
 datasets = "*"
 sentencepiece = "*"
 google-generativeai = "*"
@@ -45,6 +44,9 @@ diffusers = "*"
 soundfile = "*"
 huggingface-hub = {extras = ["cli"], version = "*"}
 jupyterlab-dash = "*"
+langchain = {extras = ["docarray"], version = "*"}
+sentence-transformers = "*"
+feedparser = "*"
 
 [dev-packages]
 
