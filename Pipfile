@@ -44,6 +44,7 @@ speedtest-cli = "*"
 diffusers = "*"
 soundfile = "*"
 huggingface-hub = {extras = ["cli"], version = "*"}
+jupyterlab-dash = "*"
 
 [dev-packages]
 
