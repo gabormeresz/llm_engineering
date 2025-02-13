@@ -47,6 +47,7 @@ jupyterlab-dash = "*"
 langchain = {extras = ["docarray"], version = "*"}
 sentence-transformers = "*"
 feedparser = "*"
+twilio = "*"
 
 [dev-packages]
 
